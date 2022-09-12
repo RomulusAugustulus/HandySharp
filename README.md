@@ -6,7 +6,7 @@ Parts of the API marked as "removed in the future" are not implemented.
 
 ## Installation
 
-Just import the nuget package in your project: *link follows*
+Just import the nuget package in your project: [https://www.nuget.org/packages/HandySharp/1.0.0](https://www.nuget.org/packages/HandySharp/1.0.0)
 
 ## How to use it
 
